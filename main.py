@@ -37,6 +37,7 @@ def update_quantity(qty):
 def map_sku_to_barcode(inventory_list):
     pass
 
+
 def main():
     """
     Main function to handle the operations of updating inventory.

@@ -7,7 +7,7 @@ The following dir is a Python script that operates on Google Sheets API service.
 # APIs
 - [Google Sheets](https://developers.google.com/sheets/api/guides/concepts)
 
-# High-level Overview
+# High-Level Overview
 1. Gain authorized access to required Google Sheet.
 
 2. Filter unique items.

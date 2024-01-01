@@ -4,7 +4,7 @@ The following dir is a Python script that operates on Google Sheets API service.
 # Tech Stack
 - Python
 
-# API(s)
+# API
 - [Google Sheets](https://developers.google.com/sheets/api/guides/concepts)
 
 # High-Level Overview

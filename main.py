@@ -6,7 +6,7 @@ from googleapiclient.discovery import build
 
 # Constants for Google Sheets setup
 SCOPES = ["https://www.googleapis.com/auth/spreadsheets"]
-SPREADSHEET_ID = "1GmoFyI5eSqugrdj6YPYxF9iMoQPk9jDQqTtnQK5-mD8"
+SPREADSHEET_ID = ""     # Sheet ID can be found in the URL of the Google Sheet
 
 
 # Function to read data from a sheet

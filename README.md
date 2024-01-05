@@ -7,15 +7,3 @@ The following dir is a Python script that operates on Google Sheets API service.
 # API
 - [Google Sheets](https://developers.google.com/sheets/api/guides/concepts)
 
-# High-Level Overview
-1. Gain authorized access to required Google Sheet.
-
-2. Filter unique items.
-
-3. Adjust unique item QTY.
-
-4. Highlight store items with QTY 0.
-
-5. Create a new sheet named 'Updated_inventory' with the QTY adjusted data.
-
-6. Import Updated_inventory to Shopify for bulk-edit via CSV.
